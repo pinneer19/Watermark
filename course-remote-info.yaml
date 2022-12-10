@@ -1,0 +1,203 @@
+hyperskill_project:
+  id: 222
+  ide_files: https://stepik.org/media/attachments/lesson/623865/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Sat, 10 Dec 2022 10:06:08 UTC
+stages:
+- id: 1112
+  step: 17145
+  is_completed: true
+- id: 1113
+  step: 17146
+  is_completed: true
+- id: 1114
+  step: 17147
+  is_completed: true
+- id: 1115
+  step: 17148
+  is_completed: true
+- id: 1116
+  step: 17149
+  is_completed: true
+topics:
+  0:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Units of information
+    theory_id: 6865
+  - title: Introduction to Operating systems
+    theory_id: 9704
+  - title: Files
+    theory_id: 13025
+  - title: Introduction to Kotlin
+    theory_id: 4350
+  - title: Basic literals
+    theory_id: 4351
+  - title: Overview of the basic program
+    theory_id: 4362
+  - title: Values and variables
+    theory_id: 4371
+  - title: Val variables
+    theory_id: 17408
+  - title: Data types
+    theory_id: 4388
+  - title: Comments
+    theory_id: 4406
+  - title: Coding style conventions
+    theory_id: 4419
+  - title: Naming variables
+    theory_id: 4389
+  - title: Standard output
+    theory_id: 4425
+  - title: Invoking functions
+    theory_id: 4575
+  - title: Standard input
+    theory_id: 4445
+  - title: The classification of basic types
+    theory_id: 4455
+  - title: Type conversion
+    theory_id: 4672
+  - title: Reading data with a readln
+    theory_id: 11224
+  - title: String basics
+    theory_id: 12553
+  - title: String templates
+    theory_id: 4547
+  - title: Boolean and logical operations
+    theory_id: 4515
+  - title: Arithmetic operations
+    theory_id: 4472
+  - title: Type of the numeric expression
+    theory_id: 9506
+  - title: Increment and decrement
+    theory_id: 10776
+  - title: Integers in action
+    theory_id: 4488
+  - title: Relational operators
+    theory_id: 4525
+  - title: Declaring functions
+    theory_id: 4580
+  - title: If expression
+    theory_id: 4625
+  - title: Errors in programs
+    theory_id: 11559
+  - title: Repeating blocks
+    theory_id: 4643
+  - title: Objects
+    theory_id: 11233
+  - title: Equality
+    theory_id: 11236
+  - title: Functions as objects
+    theory_id: 5991
+  - title: Lambda expressions
+    theory_id: 6154
+  - title: Unicode
+    theory_id: 7899
+  - title: Characters
+    theory_id: 4680
+  - title: Ranges
+    theory_id: 4633
+  - title: Introduction to MutableList
+    theory_id: 14879
+  - title: For loop and ranges
+    theory_id: 4652
+  - title: Work with MutableLists
+    theory_id: 14902
+  - title: For loop and lists
+    theory_id: 15022
+  - title: Reading files
+    theory_id: 6351
+  - title: Writing files
+    theory_id: 9710
+  - title: RGB
+    theory_id: 8819
+  - title: Image colors
+    theory_id: 14484
+  - title: Image libraries
+    theory_id: 16348
+  - title: What is an exception
+    theory_id: 7243
+  1:
+  - title: When expression
+    theory_id: 4631
+  - title: Functional decomposition
+    theory_id: 12668
+  - title: Default arguments
+    theory_id: 4637
+  - title: Named arguments
+    theory_id: 4640
+  - title: File hierarchies
+    theory_id: 15171
+  2:
+  - title: Hierarchy of exceptions
+    theory_id: 13264
+  - title: Taming exceptions
+    theory_id: 7601
+  - title: The try-catch statement
+    theory_id: 10622
+  3:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: The big O notation
+    theory_id: 16699
+  - title: Best, average and worst cases
+    theory_id: 20084
+  - title: Data structures
+    theory_id: 16927
+  - title: The concept of patterns
+    theory_id: 3611
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
+  - title: While loops
+    theory_id: 4659
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Declaring classes
+    theory_id: 6200
+  - title: Constructors
+    theory_id: 10740
+  - title: Member functions
+    theory_id: 6364
+  - title: Pseudocode
+    theory_id: 15090
+  - title: Pseudocode basics
+    theory_id: 19510
+  - title: Complex constructions in pseudocode
+    theory_id: 20922
+  - title: Stack
+    theory_id: 5252
+  - title: Call stack
+    theory_id: 11550
+  - title: Scopes
+    theory_id: 17116
+  - title: Nested and inner classes
+    theory_id: 14723
+  - title: What is a bug
+    theory_id: 5504
+  - title: Introduction to software architecture
+    theory_id: 15368
+  - title: Introduction to logging
+    theory_id: 5538
+  - title: Debugging techniques
+    theory_id: 13739
+  - title: Debugging overview
+    theory_id: 14368
+  - title: Debugging simple constructs
+    theory_id: 15503
+  - title: Design principles
+    theory_id: 8956
+  - title: Single Responsibility Principle
+    theory_id: 8963
+  - title: Object declarations
+    theory_id: 10698
+  - title: Advanced debugger features
+    theory_id: 16028
+  - title: Introduction to creational patterns
+    theory_id: 16251
+  - title: Singleton
+    theory_id: 16469
